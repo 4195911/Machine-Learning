@@ -1,6 +1,6 @@
 # Machine Learning
 
-My machine learning journey, implementing algorithms from scratch using Python and NumPy.
+My machine learning journey, implementing algorithms using Python and NumPy.
 
 ## Projects
 
