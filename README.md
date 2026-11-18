@@ -1,7 +1,3 @@
-Machine Learning
-
-My machine learning journey, implementing algorithms using Python and NumPy from scratch.
-
 Projects
 
 Week 1 — Linear Regression
