@@ -1,6 +1,6 @@
 # Week 3 — Neural Networks
 
-Implemented neural networks from scratch using Python and NumPy.
+Implemented neural networks using Python and NumPy.
 
 ## Projects
 
