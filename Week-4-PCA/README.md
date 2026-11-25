@@ -21,8 +21,7 @@ Results — PCA vs Raw Pixels
 
 Comparison across three random seeds:
 
-Metric| PCA| Raw Pixels
-Input features| 148| 784
+Metric| PCA (148 features)| Raw Pixels (784 features)
 Average validation accuracy| 95.89%| 96.18%
 Average test accuracy| 95.46%| 95.58%
 Average seconds per epoch| 19.75| 65.14
